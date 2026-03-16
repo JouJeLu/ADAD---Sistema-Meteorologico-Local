@@ -18,3 +18,8 @@ O ADAD é um projeto de sistemas embarcados desenvolvido para monitorar e analis
 - Integração com protocolo MQTT para monitoramento em nuvem.
 - Evolução da interface visual do dashboard (Frontend)
 
+## Fotos do Arduino e o Sensor na Protoboard
+
+![20260316_200116](https://github.com/user-attachments/assets/f5de56c3-e1d7-47ff-a7a6-bc7dd0c8bb48)
+![20260316_200129](https://github.com/user-attachments/assets/c5b15d9f-41f5-42cd-b811-bd5ffa2c06ea)
+![20260316_200124](https://github.com/user-attachments/assets/a134d12d-ecef-471d-a204-83a6d8164a8f)
