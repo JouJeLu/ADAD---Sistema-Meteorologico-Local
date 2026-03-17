@@ -19,7 +19,12 @@ O ADAD é um projeto de sistemas embarcados desenvolvido para monitorar e analis
 - Evolução da interface visual do dashboard (Frontend)
 
 ## Fotos do Arduino e o Sensor na Protoboard
-
+#Pojeto na protoboard
 ![20260316_200116](https://github.com/user-attachments/assets/f5de56c3-e1d7-47ff-a7a6-bc7dd0c8bb48)
+#Sensor BME 280
 ![20260316_200129](https://github.com/user-attachments/assets/c5b15d9f-41f5-42cd-b811-bd5ffa2c06ea)
+#ESP 32
 ![20260316_200124](https://github.com/user-attachments/assets/a134d12d-ecef-471d-a204-83a6d8164a8f)
+
+## Esquema das conexões
+<img width="560" height="362" alt="image" src="https://github.com/user-attachments/assets/98473473-1644-40ab-b314-9a5c2ec5451c" />
